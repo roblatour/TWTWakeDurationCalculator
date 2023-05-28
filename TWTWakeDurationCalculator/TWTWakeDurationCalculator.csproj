@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Copyright>Copyright, Rob Latour, 2023</Copyright>
+    <PackageProjectUrl>https://github.com/roblatour/TWTWakeDurationCalculator</PackageProjectUrl>
+    <Description>Enter the desired wake duration days, hours, minutes, seconds, milliseconds and microseconds.
+
+Click 'Calculate' and the program will calculate either:
+
+- the exact mantissa and exponent to match the desired wake duration, or
+
+- the best possible sets of mantissas and exponents (one just under and one above) the desired wake duration</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>
