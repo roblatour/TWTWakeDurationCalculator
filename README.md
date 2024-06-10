@@ -25,3 +25,7 @@ The Wi-Fi 6 Targeted Wake Time Duration formula described here https://ieeexplor
 Within this repo you will find:
 - the files - including the digially signed (by me) exexcutable and dll files - needed to run the program on a Windows 11 computer, and 
 - the visual studio source code for the same should you wish to build them yourself
+
+- ## Support
+
+[<img alt="buy me  a coffee" width="200px" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" />](https://www.buymeacoffee.com/roblatour)
