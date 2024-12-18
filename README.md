@@ -1,4 +1,4 @@
-# TWTWakeDurationCalculator (for Windows)
+# TWT Wake Duration Calculator (for Windows)
 
 open-source by Rob Latour, 2023, MIT license
 
